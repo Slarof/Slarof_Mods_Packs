@@ -1,2 +1,2 @@
-# Slarof Mods Packs
-Packs of mods for playing on the Slarof server
+# Slarof Modpacks
+Modpacks for playing on the Slarof server
